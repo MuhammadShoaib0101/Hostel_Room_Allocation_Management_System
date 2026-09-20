@@ -355,7 +355,6 @@ This project demonstrates the practical use of:
     It was developed as a learning project to build a realistic, rule-based hostel management system in Java.
 
 <div align="center">
-⭐ If you found this project helpful, please give it a star! ⭐
 
 Made with ❤️ by Muhammad Shoaib
 </div> ```
